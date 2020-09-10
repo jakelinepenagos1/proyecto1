@@ -37,13 +37,31 @@
 
 
      <form>
-     <h3>factura de compra </h3>
+     <h3 class="text-center mb-3">factura de compra </h3>
   <div class="row">
     <div class="col">
       <input type="text" class="form-control" placeholder="producto1">
     </div>
     <div class="col">
-      <input type="text" class="form-control" placeholder="procduto($)">
+      <input type="number" class="form-control" placeholder="precio($)">
+    </div>
+  </div>
+</form>
+
+      </div>
+  </div>
+
+</div><div class="conteiner">
+  <div class="row justify-content-center mt-3">
+     <div class="col-4">
+     <form>
+     
+  <div class="row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="producto2">
+    </div>
+    <div class="col">
+      <input type="number" class="form-control" placeholder="precio($)">
     </div>
   </div>
 </form>
@@ -51,6 +69,60 @@
       </div>
   </div>
 </div>
+</div><div class="conteiner">
+  <div class="row justify-content-center mt-3">
+     <div class="col-4">
+     <form>
+     
+  <div class="row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="producto3">
+    </div>
+    <div class="col">
+      <input type="number" class="form-control" placeholder="precio($)">
+    </div>
+  </div>
+</form>
+
+      </div>
+  </div>
+</div></div><div class="conteiner">
+  <div class="row justify-content-center mt-3">
+     <div class="col-4">
+     <form>
+     
+  <div class="row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="producto4">
+    </div>
+    <div class="col">
+      <input type="number" class="form-control" placeholder="precio($)">
+    </div>
+  </div>
+</form>
+
+      </div>
+  </div>
+</div></div><div class="conteiner">
+  <div class="row justify-content-center mt-3">
+     <div class="col-4">
+     <form>
+     
+  <div class="row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="producto5">
+    </div>
+    <div class="col">
+      <input type="number" class="form-control" placeholder="precio($)">
+    </div>
+  </div>
+</form>
+
+      </div>
+  </div>
+</div>
+<button>
+</button>
 
 </main>
 <footer>
